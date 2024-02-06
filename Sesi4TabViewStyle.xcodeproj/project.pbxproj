@@ -11,6 +11,18 @@
 		779B567B2B6726CE00821804 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 779B567A2B6726CE00821804 /* ContentView.swift */; };
 		779B567D2B6726CF00821804 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 779B567C2B6726CF00821804 /* Assets.xcassets */; };
 		779B56802B6726CF00821804 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 779B567F2B6726CF00821804 /* Preview Assets.xcassets */; };
+		779B56B12B67961100821804 /* ToDoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 779B56B02B67961100821804 /* ToDoList.swift */; };
+		779B56B32B679A1900821804 /* ToDoListSingleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 779B56B22B679A1900821804 /* ToDoListSingleView.swift */; };
+		779B56B52B67A1C400821804 /* TodoListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 779B56B42B67A1C400821804 /* TodoListView.swift */; };
+		779B56C02B67A7DA00821804 /* Outfit-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 779B56B72B67A7DA00821804 /* Outfit-Thin.ttf */; };
+		779B56C12B67A7DA00821804 /* Outfit-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 779B56B82B67A7DA00821804 /* Outfit-ExtraLight.ttf */; };
+		779B56C22B67A7DA00821804 /* Outfit-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 779B56B92B67A7DA00821804 /* Outfit-Light.ttf */; };
+		779B56C32B67A7DA00821804 /* Outfit-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 779B56BA2B67A7DA00821804 /* Outfit-Black.ttf */; };
+		779B56C42B67A7DA00821804 /* Outfit-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 779B56BB2B67A7DA00821804 /* Outfit-Regular.ttf */; };
+		779B56C52B67A7DA00821804 /* Outfit-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 779B56BC2B67A7DA00821804 /* Outfit-Medium.ttf */; };
+		779B56C62B67A7DA00821804 /* Outfit-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 779B56BD2B67A7DA00821804 /* Outfit-ExtraBold.ttf */; };
+		779B56C72B67A7DA00821804 /* Outfit-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 779B56BE2B67A7DA00821804 /* Outfit-Bold.ttf */; };
+		779B56C82B67A7DA00821804 /* Outfit-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 779B56BF2B67A7DA00821804 /* Outfit-SemiBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +31,19 @@
 		779B567A2B6726CE00821804 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		779B567C2B6726CF00821804 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		779B567F2B6726CF00821804 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		779B56B02B67961100821804 /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
+		779B56B22B679A1900821804 /* ToDoListSingleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListSingleView.swift; sourceTree = "<group>"; };
+		779B56B42B67A1C400821804 /* TodoListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListView.swift; sourceTree = "<group>"; };
+		779B56B72B67A7DA00821804 /* Outfit-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Outfit-Thin.ttf"; path = "../../../../../DARUS-SUNNAH/ASET DESAIN/Font/Outfit/static/Outfit-Thin.ttf"; sourceTree = "<group>"; };
+		779B56B82B67A7DA00821804 /* Outfit-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Outfit-ExtraLight.ttf"; path = "../../../../../DARUS-SUNNAH/ASET DESAIN/Font/Outfit/static/Outfit-ExtraLight.ttf"; sourceTree = "<group>"; };
+		779B56B92B67A7DA00821804 /* Outfit-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Outfit-Light.ttf"; path = "../../../../../DARUS-SUNNAH/ASET DESAIN/Font/Outfit/static/Outfit-Light.ttf"; sourceTree = "<group>"; };
+		779B56BA2B67A7DA00821804 /* Outfit-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Outfit-Black.ttf"; path = "../../../../../DARUS-SUNNAH/ASET DESAIN/Font/Outfit/static/Outfit-Black.ttf"; sourceTree = "<group>"; };
+		779B56BB2B67A7DA00821804 /* Outfit-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Outfit-Regular.ttf"; path = "../../../../../DARUS-SUNNAH/ASET DESAIN/Font/Outfit/static/Outfit-Regular.ttf"; sourceTree = "<group>"; };
+		779B56BC2B67A7DA00821804 /* Outfit-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Outfit-Medium.ttf"; path = "../../../../../DARUS-SUNNAH/ASET DESAIN/Font/Outfit/static/Outfit-Medium.ttf"; sourceTree = "<group>"; };
+		779B56BD2B67A7DA00821804 /* Outfit-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Outfit-ExtraBold.ttf"; path = "../../../../../DARUS-SUNNAH/ASET DESAIN/Font/Outfit/static/Outfit-ExtraBold.ttf"; sourceTree = "<group>"; };
+		779B56BE2B67A7DA00821804 /* Outfit-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Outfit-Bold.ttf"; path = "../../../../../DARUS-SUNNAH/ASET DESAIN/Font/Outfit/static/Outfit-Bold.ttf"; sourceTree = "<group>"; };
+		779B56BF2B67A7DA00821804 /* Outfit-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Outfit-SemiBold.ttf"; path = "../../../../../DARUS-SUNNAH/ASET DESAIN/Font/Outfit/static/Outfit-SemiBold.ttf"; sourceTree = "<group>"; };
+		779B56C92B67A7F100821804 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +76,11 @@
 		779B56772B6726CE00821804 /* Sesi4TabViewStyle */ = {
 			isa = PBXGroup;
 			children = (
+				779B56C92B67A7F100821804 /* Info.plist */,
+				779B56B62B67A78700821804 /* Font */,
+				779B56AF2B6795FA00821804 /* TodoList */,
+				779B56862B6726EF00821804 /* Views */,
 				779B56782B6726CE00821804 /* Sesi4TabViewStyleApp.swift */,
-				779B567A2B6726CE00821804 /* ContentView.swift */,
 				779B567C2B6726CF00821804 /* Assets.xcassets */,
 				779B567E2B6726CF00821804 /* Preview Content */,
 			);
@@ -65,6 +93,40 @@
 				779B567F2B6726CF00821804 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		779B56862B6726EF00821804 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				779B567A2B6726CE00821804 /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		779B56AF2B6795FA00821804 /* TodoList */ = {
+			isa = PBXGroup;
+			children = (
+				779B56B02B67961100821804 /* ToDoList.swift */,
+				779B56B22B679A1900821804 /* ToDoListSingleView.swift */,
+				779B56B42B67A1C400821804 /* TodoListView.swift */,
+			);
+			path = TodoList;
+			sourceTree = "<group>";
+		};
+		779B56B62B67A78700821804 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				779B56BA2B67A7DA00821804 /* Outfit-Black.ttf */,
+				779B56BE2B67A7DA00821804 /* Outfit-Bold.ttf */,
+				779B56BD2B67A7DA00821804 /* Outfit-ExtraBold.ttf */,
+				779B56B82B67A7DA00821804 /* Outfit-ExtraLight.ttf */,
+				779B56B92B67A7DA00821804 /* Outfit-Light.ttf */,
+				779B56BC2B67A7DA00821804 /* Outfit-Medium.ttf */,
+				779B56BB2B67A7DA00821804 /* Outfit-Regular.ttf */,
+				779B56BF2B67A7DA00821804 /* Outfit-SemiBold.ttf */,
+				779B56B72B67A7DA00821804 /* Outfit-Thin.ttf */,
+			);
+			path = Font;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +187,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				779B56C02B67A7DA00821804 /* Outfit-Thin.ttf in Resources */,
+				779B56C12B67A7DA00821804 /* Outfit-ExtraLight.ttf in Resources */,
+				779B56C72B67A7DA00821804 /* Outfit-Bold.ttf in Resources */,
 				779B56802B6726CF00821804 /* Preview Assets.xcassets in Resources */,
 				779B567D2B6726CF00821804 /* Assets.xcassets in Resources */,
+				779B56C42B67A7DA00821804 /* Outfit-Regular.ttf in Resources */,
+				779B56C22B67A7DA00821804 /* Outfit-Light.ttf in Resources */,
+				779B56C62B67A7DA00821804 /* Outfit-ExtraBold.ttf in Resources */,
+				779B56C52B67A7DA00821804 /* Outfit-Medium.ttf in Resources */,
+				779B56C82B67A7DA00821804 /* Outfit-SemiBold.ttf in Resources */,
+				779B56C32B67A7DA00821804 /* Outfit-Black.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +208,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				779B56B32B679A1900821804 /* ToDoListSingleView.swift in Sources */,
 				779B567B2B6726CE00821804 /* ContentView.swift in Sources */,
+				779B56B12B67961100821804 /* ToDoList.swift in Sources */,
+				779B56B52B67A1C400821804 /* TodoListView.swift in Sources */,
 				779B56792B6726CE00821804 /* Sesi4TabViewStyleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -274,11 +348,12 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Sesi4TabViewStyle/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Sesi4TabViewStyle/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -286,9 +361,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.github.mutafaailuun.Sesi4TabViewStyle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -302,11 +380,12 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Sesi4TabViewStyle/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Sesi4TabViewStyle/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -314,9 +393,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.github.mutafaailuun.Sesi4TabViewStyle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
